@@ -1,1 +1,1 @@
-current x5sa klipper config backup.
+Current X5SA Pro klipper config backup.
